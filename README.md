@@ -4,5 +4,5 @@
 💡 Specializing in:  
 ✔️ Deep Learning   
 ✔️ Natural Language Processing (Transformers, LLMs)  
-✔️ Generative AI (GANs, Stable Diffusion)  
+✔️ Generative AI
 
