@@ -1,6 +1,6 @@
 # Hi, I'm Monit Korn 👋
 
-🔹 **AI Engineer** | **Machine Learning Enthusiast**
+🔹 **AI Engineer** | **Data Scientist** | **Machine Learning Enthusiast**
 
 💡 **Specializing in:**  
 ✔️ **Deep Learning**  
