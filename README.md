@@ -4,7 +4,8 @@
 
 💡 **Specializing in:**  
 ✔️ **Deep Learning**  
-✔️ **Natural Language Processing (Transformers, LLMs)**  
+✔️ **Natural Language Processing (Transformers, LLMs)**
+✔️ **Computer Vision**
 ✔️ **Generative AI**
 
 ---
