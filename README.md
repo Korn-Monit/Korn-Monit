@@ -1,6 +1,6 @@
 # Hi, I'm Monit Korn 👋
 
-🔹 **AI Engineer** | **Data Scientist** | **Machine Learning Enthusiast**
+🔹 **AI Engineer**
 
 💡 **Specializing in:**  
 ✔️ **Deep Learning**  
@@ -8,6 +8,6 @@
 ✔️ **Computer Vision**  
 ✔️ **Generative AI**
 ---
-I am a passionate tech enthusiast with a strong interest in AI, data science, and software engineering. My experience spans both academic and industrial projects. I am committed to leveraging technology to solve real-world problems and continuously expand my knowledge in the field.
+I am a passionate tech enthusiast with a strong interest in AI. My experience spans both academic and industrial projects. I am committed to leveraging technology to solve real-world problems and continuously expand my knowledge in the field.
 
 
